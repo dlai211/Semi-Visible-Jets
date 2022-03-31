@@ -7,10 +7,11 @@ Meeting time: Wednesday 7:30 A.M. PST \
 List of SVJ analysis meetings: https://biliu.web.cern.ch/biliu/svj/MyMeetings.html
 
 ## Dataset
-DAOD files: https://prodtask-dev.cern.ch/prodtask/inputlist_with_request/40972/
+DAOD files: https://prodtask-dev.cern.ch/prodtask/inputlist_with_request/40972/ \
+nTuple & DAOD files location: /eos/user/j/jlai/output_root & /eos/user/j/jlai/SVJ_input
 
 ## Framework
-xAODAnaHelpers: https://gitlab.cern.ch/atlas-phys/exot/jdm/ana-exot-2021-19
+xAODAnaHelpers: https://gitlab.cern.ch/atlas-phys/exot/jdm/ana-exot-2021-19 \
 darkjetresonances: https://gitlab.cern.ch/atlas-phys/exot/dbl/Analyses/darkjetresonances 
 
 ## Background
