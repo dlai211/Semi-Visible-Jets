@@ -12,3 +12,5 @@ lsetup rucio
 voms-proxy-init -voms atlas
 rucio get [file name]
 ```
+
+- if you encounter 'no credential found', there is the [tutorial](https://www.sdcc.bnl.gov/information/getting-started/user-guide-grid-resources)
