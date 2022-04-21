@@ -9,6 +9,9 @@ List of SVJ analysis meetings: https://biliu.web.cern.ch/biliu/svj/MyMeetings.ht
 ## Google slides of my updates
 Slides: https://docs.google.com/presentation/d/14ellx0WNA2G2ChF87MR4gVExBJA5PfiYcyLNx1xvNsQ/edit#slide=id.p
 
+## Reference Paper
+Paper: https://arxiv.org/pdf/2112.02864.pdf
+
 ## Dataset
 DAOD files: https://prodtask-dev.cern.ch/prodtask/inputlist_with_request/40972/ \
 nTuple & DAOD files location: /eos/user/j/jlai/output_root & /eos/user/j/jlai/SVJ_input
@@ -19,5 +22,4 @@ darkjetresonances: https://gitlab.cern.ch/atlas-phys/exot/dbl/Analyses/darkjetre
 
 ## Background
 t-channel study: https://docs.google.com/presentation/d/1KsMlsd9V3JLcYIpgKWlXh76lEtscvWZxD1bz8WMFRXc/edit#slide=id.g106b63b11ab_0_5 
-
 
