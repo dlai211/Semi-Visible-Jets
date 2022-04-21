@@ -10,7 +10,7 @@ List of SVJ analysis meetings: https://biliu.web.cern.ch/biliu/svj/MyMeetings.ht
 Slides: https://docs.google.com/presentation/d/14ellx0WNA2G2ChF87MR4gVExBJA5PfiYcyLNx1xvNsQ/edit#slide=id.p
 
 ## Reference Paper
-Paper: https://arxiv.org/pdf/2112.02864.pdf
+Autoencoders for SVJ: https://arxiv.org/pdf/2112.02864.pdf
 
 ## Dataset
 DAOD files: https://prodtask-dev.cern.ch/prodtask/inputlist_with_request/40972/ \
