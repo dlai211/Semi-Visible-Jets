@@ -14,7 +14,8 @@ Autoencoders for SVJ: https://arxiv.org/pdf/2112.02864.pdf
 
 ## Dataset
 DAOD files: https://prodtask-dev.cern.ch/prodtask/inputlist_with_request/40972/ \
-nTuple & DAOD files location: /eos/user/j/jlai/output_root & /eos/user/j/jlai/SVJ_input
+nTuple & DAOD files location: /eos/user/j/jlai/output_root & /eos/user/j/jlai/SVJ_input \
+Background files location: /eos/atlas/atlascerngroupdisk/phys-exotics/jdm/svjets-schannel/multijet/
 
 ## Framework
 xAODAnaHelpers: https://gitlab.cern.ch/atlas-phys/exot/jdm/ana-exot-2021-19 \
